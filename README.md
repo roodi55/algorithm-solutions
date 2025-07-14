@@ -13,7 +13,7 @@
 ## 폴더 구조
 
 ```plaintext
-AlgorithmPractice/
+algorithmSolutions/
 ├── src/
 │   ├── com.backjoon.step01/
 │   │   ├── Backjoon_1000.java

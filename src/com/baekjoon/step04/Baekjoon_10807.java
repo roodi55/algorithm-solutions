@@ -78,7 +78,7 @@ public class Baekjoon_10807 {
 			
 			int result = freqMap.getOrDefault(target, 0);
 			
-			bw.write(result);
+			bw.write(String.valueOf(result)); 
 			bw.flush();
 			
 			br.close();

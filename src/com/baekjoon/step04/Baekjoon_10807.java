@@ -55,7 +55,7 @@ public class Baekjoon_10807 {
 	 * 3. getOrDefault() 사용 -> null 체크 없이 안전한 값 추출
 	 * 
 	 */
-	public static void refactoring(String[] args) {
+	public static void mainImprovedSolution(String[] args) {
 		try (
 				BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 				BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
@@ -84,10 +84,8 @@ public class Baekjoon_10807 {
 			br.close();
 			bw.close();
 			
-		} catch ( IOException e ) {
-			
-			System.err.println("입출력 오류 " + e.getMessage());
-			
-		}
+		} catch (IOException | IllegalArgumentException e) {
+            System.err.println("오류: " + e.getMessage());
+        }
 	}
 }

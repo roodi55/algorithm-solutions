@@ -15,6 +15,8 @@ public class Baekjoon_15552 {
 	 * 
 	 * 빠른 A+B
 	 * 
+	 * 관련 기술 정리: https://velog.io/@roodi/BufferedReaderBufferedWriter
+	 * 
 	 */
 	public static void main(String[] args) throws IOException {
 		long startTime = System.currentTimeMillis(); // 코드 시작 시간

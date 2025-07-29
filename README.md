@@ -6,7 +6,7 @@
 ## 사용 언어 및 환경
 
 - **Language**: Java 17
-- **IDE**: IntelliJ IDEA / Eclipse
+- **IDE**: Eclipse
 - **Build Tool**: 없음 (단순 Java 파일 실행)
 - **Input 방식**: `Scanner` 또는 `BufferedReader` (문제 조건에 따라 선택)
 

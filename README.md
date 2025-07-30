@@ -1,6 +1,6 @@
 
 ## Algorithm Solutions in Java
- > 백준 알고리즘 문제를 Java로 풀이하고 정리한 저장소입니다.  
+ > 백준, 프로그래머스 알고리즘 문제를 Java로 풀이하고 정리한 저장소입니다.  
 	> 단계별 문제, 알고리즘 분류 문제, 실전 대비 문제 등을 체계적으로 정리하고 있습니다.
 	
 ## 사용 언어 및 환경
@@ -23,7 +23,7 @@ algorithmSolutions/
 │   │   ├── Backjoon_1330.java
 │   │   └── ...
 │   ├── com.algorithm.hackerrank/
-│   ├── com.algorithm.programmers/
+│   ├── com.algorithm.programmers.lv1/
 │   └── ...
 └── README.md
 
@@ -38,3 +38,4 @@ algorithmSolutions/
 ✨ 항상 더 나은 코드와 설명을 위해 노력하고 있습니다.
 부족한 부분이나 개선할 점이 있으면 언제든지 이슈나 PR로 알려주세요!
 여러분의 소중한 피드백은 큰 도움이 됩니다. 감사합니다!
+

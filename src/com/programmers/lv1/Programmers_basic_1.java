@@ -1,6 +1,5 @@
 package com.programmers.lv1;
 
-import java.util.Scanner;
 
 public class Programmers_basic_1 {
 	

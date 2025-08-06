@@ -3,7 +3,7 @@ package com.programmers.lv1;
 public class Programmers_1_6 {
 	
 	/*
-	 * [PCCE 기출문제] 5번 / 물부족
+	 * [PCCE 기출문제] 6번 / 물부족
 	 * 
 	 * 디버깅 
 	 * 
